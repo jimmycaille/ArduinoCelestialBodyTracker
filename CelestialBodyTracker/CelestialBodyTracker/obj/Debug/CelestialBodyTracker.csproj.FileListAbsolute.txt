@@ -1,0 +1,13 @@
+D:\git\ArduinoCelestialBodyTracker\CelestialBodyTracker\CelestialBodyTracker\obj\Debug\CelestialBodyTracker.csprojAssemblyReference.cache
+D:\git\ArduinoCelestialBodyTracker\CelestialBodyTracker\CelestialBodyTracker\obj\Debug\CelestialBodyTracker.Form1.resources
+D:\git\ArduinoCelestialBodyTracker\CelestialBodyTracker\CelestialBodyTracker\obj\Debug\CelestialBodyTracker.Properties.Resources.resources
+D:\git\ArduinoCelestialBodyTracker\CelestialBodyTracker\CelestialBodyTracker\obj\Debug\CelestialBodyTracker.csproj.GenerateResource.cache
+D:\git\ArduinoCelestialBodyTracker\CelestialBodyTracker\CelestialBodyTracker\obj\Debug\CelestialBodyTracker.csproj.CoreCompileInputs.cache
+D:\git\ArduinoCelestialBodyTracker\CelestialBodyTracker\CelestialBodyTracker\bin\Debug\CelestialBodyTracker.exe.config
+D:\git\ArduinoCelestialBodyTracker\CelestialBodyTracker\CelestialBodyTracker\bin\Debug\CelestialBodyTracker.exe
+D:\git\ArduinoCelestialBodyTracker\CelestialBodyTracker\CelestialBodyTracker\bin\Debug\CelestialBodyTracker.pdb
+D:\git\ArduinoCelestialBodyTracker\CelestialBodyTracker\CelestialBodyTracker\obj\Debug\CelestialBodyTracker.exe
+D:\git\ArduinoCelestialBodyTracker\CelestialBodyTracker\CelestialBodyTracker\obj\Debug\CelestialBodyTracker.pdb
+D:\git\ArduinoCelestialBodyTracker\CelestialBodyTracker\CelestialBodyTracker\bin\Debug\Newtonsoft.Json.dll
+D:\git\ArduinoCelestialBodyTracker\CelestialBodyTracker\CelestialBodyTracker\bin\Debug\Newtonsoft.Json.xml
+D:\git\ArduinoCelestialBodyTracker\CelestialBodyTracker\CelestialBodyTracker\obj\Debug\CelestialBodyTracker.csproj.CopyComplete
